@@ -7,7 +7,7 @@ Pastanın üzerinde yanıp sönen mum animasyonu ve yumuşak renklerle tatlı bi
 
 ## 🖼️ Önizleme
 Canlı olarak görmek için tıklayın:  
-👉 [🎉 Doğum Günü Kartımı Görüntüle](https://dogumgunu-unal.vercel.app/)
+👉 [🎉 Doğum Günü Kartımı Görüntüle](https://dogum-gunu-karti.vercel.app/)
 
 ---
 
