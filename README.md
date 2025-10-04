@@ -1,4 +1,4 @@
-# 🎂 Doğum Günü Kartı (Happy Birthday Card)
+# 🎂 Happy Birthday Card
 
 Bu proje, HTML ve CSS kullanılarak hazırlanmış basit ama şık bir **doğum günü kutlama sayfasıdır.**  
 Pastanın üzerinde yanıp sönen mum animasyonu ve yumuşak renklerle tatlı bir görünüm oluşturulmuştur. 💖  
@@ -7,7 +7,7 @@ Pastanın üzerinde yanıp sönen mum animasyonu ve yumuşak renklerle tatlı bi
 
 ## 🖼️ Önizleme
 Canlı olarak görmek için tıklayın:  
-👉 [🎉 Doğum Günü Kartımı Görüntüle](https://dogum-gunu-karti.vercel.app/)
+👉 [🎉 Doğum Günü Kartını Görüntüle](https://dogum-gunu-karti.vercel.app/)
 
 ---
 
@@ -24,6 +24,4 @@ Canlı olarak görmek için tıklayın:
 - Animasyonlu mum alevi 🔥  
 - Responsive tasarım 🧁  
 - Kolayca kişiselleştirilebilir (isim, renk, yazı) 💬  
-- GitHub + Vercel ile saniyede yayınlanabilir 🌐  
-
 ---
