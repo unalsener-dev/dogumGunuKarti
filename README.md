@@ -16,7 +16,7 @@ Canlı olarak görmek için tıklayın:
 - **CSS3**
 - **VS Code**
 - **Git & GitHub**
-- **Vercel** (deploy için)
+- **Vercel** 
 
 ---
 
@@ -27,8 +27,3 @@ Canlı olarak görmek için tıklayın:
 - GitHub + Vercel ile saniyede yayınlanabilir 🌐  
 
 ---
-
-## 🚀 Yayınlama Adımları
-1. Projeyi klonla:  
-   ```bash
-   git clone https://github.com/unalsener-dev/dogumGunuKarti.git
